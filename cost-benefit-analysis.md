@@ -1,6 +1,6 @@
 ## Cost-Benefit Analysis (2024–2026)
 
-Assumptions: single mid-size grocery store, system launched mid-2024.
+single mid-size grocery store, system launched mid-2024.
 
 | Item | 2024 | 2025 | 2026 | Total |
 |---|---|---|---|---|
